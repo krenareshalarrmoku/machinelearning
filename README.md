@@ -92,6 +92,9 @@ cluster
 FAZA 3
 
 Per fazen tre mendoj te analizoj me thelle algoritmet dhe paraprocesimin qe duhet te beje qe te arrij parashikimin e pages ne menyre me te sakte.
+Kam perdorur neural network analysis ne menyre qe te arrij rezultate me te mira siq shihen me poshte. 
+
+
 
 
 
