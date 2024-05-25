@@ -94,7 +94,12 @@ FAZA 3
 Per fazen tre mendoj te analizoj me thelle algoritmet dhe paraprocesimin qe duhet te beje qe te arrij parashikimin e pages ne menyre me te sakte.
 Kam perdorur neural network analysis ne menyre qe te arrij rezultate me te mira siq shihen me poshte. 
 
+kemi vendosur nje threshold te caktuar dhe nese performance e modelit bie atehere vazhdojme em ritrajnimin e modelit 
 
+sa i perket ML tools kemi perdorur TensorFlow nga Google Brains dhe modelin neural networks 
+
+![image](https://github.com/krenareshalarrmoku/machinelearning/assets/165852868/3c2bf0b1-dae3-46a6-ab95-bb277ff41f2f)
+ 
 
 
 
